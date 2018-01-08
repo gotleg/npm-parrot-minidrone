@@ -10,7 +10,7 @@
   "author": "Christopher Fetherston <chris@cfetherston.com> (https://github.com/fetherston)",
   "license": "MIT",
   "dependencies": {
-    "noble": "^1.6.0",
+    "noble": "^1.8.1",
     "winston": "^2.2.0"
   },
   "engine": "node >= 6.0.0",
